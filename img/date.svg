@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 16" width="15" height="16">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-174 -3100L1266 -3100L1266 3756L-174 3756Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #262626 } 
+	</style>
+	<g id="Home--Main" clip-path="url(#cp1)">
+		<g id="Group 6">
+			<g id="Card/Blog">
+				<g id="Group 5">
+					<g id="icon/social/person_outline_24px">
+						<path id="icon" fill-rule="evenodd" class="shp0" d="M1.94 1.38L3.39 1.38L3.39 0.62L4.83 0.62L4.83 1.38L10.61 1.38L10.61 0.62L12.05 0.62L12.05 1.38L13.49 1.38C14.29 1.38 14.94 2.06 14.94 2.9L14.94 14.3C14.94 15.14 14.29 15.82 13.49 15.82L1.94 15.82C1.15 15.82 0.5 15.14 0.5 14.3L0.5 2.9C0.5 2.06 1.15 1.38 1.94 1.38ZM1.94 2.9L1.94 5.18L13.49 5.18L13.49 2.9L12.05 2.9L12.05 3.66L10.61 3.66L10.61 2.9L4.83 2.9L4.83 3.66L3.39 3.66L3.39 2.9L1.94 2.9ZM1.94 14.3L13.49 14.3L13.49 6.7L1.94 6.7L1.94 14.3Z" />
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

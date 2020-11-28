@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 579 581" width="579" height="581">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-861 -356L579 -356L579 6500L-861 6500Z" />
+		</clipPath>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="490.865" y1="1.972" x2="438.174" y2="307.485">
+			<stop offset="0" stop-color="#8471ff"  />
+			<stop offset="1" stop-color="#717cff"  />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { opacity: 0.702;fill: url(#grd1) } 
+	</style>
+	<g id="Home--Main" clip-path="url(#cp1)">
+		<path id="Oval" class="shp0" d="M532 578.8C816.43 578.8 1030 614.73 1030 396.01C1030 177.3 799.43 0 515 0C230.57 0 0 177.3 0 396.01C0 614.73 247.57 578.8 532 578.8Z" />
+	</g>
+</svg>

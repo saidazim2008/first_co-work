@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 344 224" width="344" height="224">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-928 -2846L512 -2846L512 4010L-928 4010Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Home--Main" clip-path="url(#cp1)">
+		<g id="Group 6">
+			<g id="Card/Blog Copy 2">
+				<path id="Rectangle" d="M10 0L334 0C339.53 0 344 4.47 344 10L344 224L344 224L0 224L0 224L0 10C0 4.47 4.47 0 10 0Z" />
+			</g>
+		</g>
+	</g>
+</svg>

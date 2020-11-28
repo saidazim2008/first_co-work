@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 27 19" width="27" height="19">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-789 -2046L651 -2046L651 4810L-789 4810Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #2d2d2d } 
+	</style>
+	<g id="Home--Main" clip-path="url(#cp1)">
+		<g id="features copy 4">
+			<g id="Group">
+				<g id="icon/maps/track_24px">
+					<path id="airplane" class="shp0" d="M9.66 0.67L12.23 0.67C13.65 0.67 15.39 1.66 16.11 2.88L19.29 8.21L25.07 8.21C25.78 8.21 26.36 8.79 26.36 9.5C26.36 10.21 25.78 10.78 25.07 10.78L19.17 10.78L15.99 16.12C15.26 17.34 13.52 18.33 12.11 18.33L9.54 18.33L14.03 10.78L5.05 10.78L3.21 13.94L0.64 13.94L3.23 9.5L3.23 9.46L0.67 5.06L3.23 5.06L5.08 8.21L14.15 8.21L9.66 0.67Z" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

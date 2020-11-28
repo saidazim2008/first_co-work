@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 30" width="24" height="30">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-986 -1639L454 -1639L454 5217L-986 5217Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #262626 } 
+	</style>
+	<g id="Home--Main" clip-path="url(#cp1)">
+		<g id="features copy 2">
+			<g id="Group">
+				<g id="icon/maps/track_24px">
+					<path id="icon" fill-rule="evenodd" class="shp0" d="M3.19 0.08L16.13 0.08L23.06 7.43L23.06 26.38C23.06 27.83 21.95 29.01 20.58 29.01L3.19 29.01C1.82 29.01 0.71 27.83 0.71 26.38L0.71 2.71C0.71 1.26 1.82 0.08 3.19 0.08ZM3.19 2.71L3.19 26.38L20.58 26.38L20.58 10.6L15.61 10.6C14.24 10.6 13.13 9.43 13.13 7.97L13.13 2.71L3.19 2.71ZM15.61 7.97L20.06 7.97L15.61 3.26L15.61 7.97ZM10.64 19.26L15.97 13.62L17.73 15.48L10.64 22.98L6.04 18.11L7.8 16.25L10.64 19.26Z" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
